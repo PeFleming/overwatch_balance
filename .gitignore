@@ -1,0 +1,8 @@
+data/*.csv
+*.csv
+.DS_Store
+*.pkl
+*checkpoint.ipynb
+.ipynb_checkpoints
+selenium/
+debug.log
